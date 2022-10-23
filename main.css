@@ -58,26 +58,60 @@ p {
 .raw-redirection {
     background-color: #BEB4B2;
     /* [disabled]font-weight: bold; */
+    /* [disabled]padding-top: 5px; */
+    /* [disabled]padding-bottom: 5px; */
 }
 .p-jap {
     font-family: "Zen Old Mincho Black", "Zen Old Mincho Bold", "Zen Old Mincho Regular";
     /* [disabled]font-variant: normal; */
 }
 .container-fluid-space {
-    background-color: #E1DEDD;
+    background-color: #F2A991;
     padding-top: 300px;
     padding-bottom: 300px;
 }
-.container-fluid-contact {
-    background-color: #E99E9F;
+.container-fluid-img1 {
     padding-top: 100px;
-    padding-bottom: 100px;
+    padding-bottom: 150px;
+    color: #E1DEDD;
+    font-family: Scandia;
+    background-image: url(images/CONT-FLUID-IMG1.jpg);
+}
+.container-fluid-img2 {
+    padding-top: 100px;
+    padding-bottom: 150px;
+    color: #E1DEDD;
+    font-family: Scandia;
+    background-image: url(images/CONT-FLUID-IMG2.jpg);
+}
+.container-fluid-img3 {
+    padding-top: 100px;
+    padding-bottom: 150px;
+    color: #E1DEDD;
+    font-family: Scandia;
+    background-image: url(images/CONT-FLUID-IMG3.jpg);
+}
+h2 {
     color: #020320;
     font-family: Scandia;
+    font-size: xx-large;
+    text-align: center;
+}
+.container-center {
+    padding-top: 100px;
+}
+.btn-submit {
+    font-family: Scandia;
+    background-color: #BEB4B2;
+    color: #020320;
 }
 .col-form-contact {
     padding-bottom: 15px;
     padding-top: 5px;
 }
 .col.form-contact {
+}
+.h1-center {
+    text-align: center;
+    color: #E1DEDD;
 }
