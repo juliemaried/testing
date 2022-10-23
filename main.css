@@ -1,0 +1,83 @@
+@charset "UTF-8";
+.container-nav {
+    background-color: #E1DEDD;
+}
+.navbar-link-thispage {
+    font-family: Scandia;
+    text-decoration: overline;
+    font-weight: bold;
+    text-shadow: 0px 0px #020320;
+    background-color: #BEB4B2;
+}
+.navbar-link-otherpages {
+    text-shadow: 0px 0px #020320;
+    text-decoration: overline;
+    font-family: Scandia;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #E1DEDD;
+}
+.fa-ellipsis-vertical {
+    color: #BEB4B2;
+    font-size: xx-large;
+}
+.container-carousel {
+    background-color: #E1DEDD;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.fa-ellipsis {
+    color: #E1DEDD;
+    font-size: x-large;
+}
+.container-redirection {
+    background-color: #E1DEDD;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.container-footer {
+    background-color: #E1DEDD;
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+.p-footer {
+    color: #020320;
+    font-family: Scandia;
+    font-size: small;
+    text-align: left;
+}
+p {
+    color: #020320;
+    font-family: Scandia;
+}
+.p-redirection {
+    text-align: center;
+    font-size: x-large;
+    /* [disabled]font-weight: bold; */
+}
+.raw-redirection {
+    background-color: #BEB4B2;
+    /* [disabled]font-weight: bold; */
+}
+.p-jap {
+    font-family: "Zen Old Mincho Black", "Zen Old Mincho Bold", "Zen Old Mincho Regular";
+    /* [disabled]font-variant: normal; */
+}
+.container-fluid-space {
+    background-color: #E1DEDD;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+.container-fluid-contact {
+    background-color: #E99E9F;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    color: #020320;
+    font-family: Scandia;
+}
+.col-form-contact {
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+.col.form-contact {
+}
